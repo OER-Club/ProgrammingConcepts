@@ -1,31 +1,21 @@
-(A)Introcuction to Programming :Algorithms & Flow charts (10 examples each)
+(A)Introcuction to Programming :Algorithms & Flow chart 
+   2 done
+   8 more
 
-1.  Write a program that asks the user to enter the width and length of a room. Once the values have been read, your program should compute and display the area of the room.
-The length and the width will be entered as floating point numbers. Include units in your prompt and output message; either feet or meters, depending on which unit you are 
-more comfortable working with.  (M & K -Done)
-2. The program that you create for this exercise will begin by reading the cost of a meal ordered at a restaurant from the user. Then your program will compute the tax and tip
-for the meal. Use your local tax rate when computing the amount of tax owing. Compute the tip as 18 percent of the meal amount (without the tax). 
-The output from your program should include the tax amount, the tip amount, and the grand total for the meal including both the tax and the tip. 
-Format the output so that all the values are displayed using two decimal places. (Edom -Done)
+(B)If statement: Algorithms & Flow chart
 
-
-(B)If statement: Algorithms & Flow charts (10 examples each)
-
-1. Euclid was a Greek mathematician who lived approximately 2,300 years ago. His algorithm for computing the greatest common divisor of two positive integers, a and b, 
-is both efficient and recursive. It is outlined below: 
-   If b is 0 then  
-     Return a  
-   Else  
-     Set c equal to the remainder when a is divided by b  
-     Return the greatest common divisor of b and c 
-  Write a program that implements Euclid’s algorithm and uses it to determine the greatest common divisor of two integers entered by the user. 
-  Use the below sections for preparing the tutorial. (Jessica -Done)
+  1 done
+  9 more
   
-(C)  Loops :Algorithms & Flow chart (10 examples each)
+(C)  Loops :Algorithms & Flow chart 
+
+  10 more
   
-(D) Arrays One dimentional (10 examples each)
+(D) Arrays One dimentional
+  10 more
   
-(E) Arrays 2 Dimentional (10 examples each)
+(E) Arrays 2 Dimentional 
+  10 more
   
   
   
